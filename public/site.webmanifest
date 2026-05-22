@@ -1,0 +1,17 @@
+{
+  "name": "Ziva Unisex Salon",
+  "short_name": "Ziva",
+  "description": "A modern unisex atelier. Hair, skin, bridal and grooming rituals in Mumbai.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf9f5",
+  "theme_color": "#2d2620",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
